@@ -7,7 +7,7 @@ public class App {
 		
 		System.out.println("Hello welcome");
 		System.out.println("second time");
-		System.out.println("Check git");
+		System.out.println("Check link");
 
 	}
 
